@@ -1,4 +1,4 @@
-# FreeWork.github.io
+# FreeWork-earth.github.io
 Webpage for mobile AppDev for FreeWork.earth ecosystem
 # Table of Contents: 
 1. Motivation

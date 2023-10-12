@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'FREEW0RK', // Usually your GitHub org/user name.
   projectName: 'FREEW0RK.github.io', // Usually your repo name.
-
+  deploymentBranch: 'gh-pages', // The branch of the docs repo to publish.
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 

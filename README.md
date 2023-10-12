@@ -25,6 +25,12 @@ $ yarn build
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
+As Organization:
+1. create new Branch e.g. gh-pages
+2. go back on main branch
+        add after project name a:  DEPLOYMENT BRANCH in docusaurus.config.json 
+        deploymentBranch: 'gh-pages', // The branch of the docs repo to publish.
+
 
 Using SSH:
 
@@ -36,6 +42,11 @@ Not using SSH:
 
 ```
 $ GIT_USER=<Your GitHub username> yarn deploy
+```
+
+MICROSOFT:
+```
+$  cmd /C "set GIT_USER=FreeworkEarth&& yarn deploy"
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.

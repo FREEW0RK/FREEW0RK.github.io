@@ -34,6 +34,7 @@ const config = {
     locales: ['en'],
   },
 
+  
   presets: [
     [
       'classic',
@@ -43,16 +44,16 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          //editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-       // blog: {
-          //showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-         // editUrl:
-          //  'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-       //},
+        // blog: {
+        //   showReadingTime: true,
+        //   // Please change this to your repo.
+        //   // Remove this to remove the "edit this page" links.
+        //   // editUrl:
+        //   //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -60,54 +61,51 @@ const config = {
     ],
   ],
 
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        disableSwitch: true,
+      },
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'FREEWORK',
-        logo: {
-          alt: 'FREEWORK Logo',
-          src: '/img/freeworklogoearthgrinsgesicht.jpg',
-        },
+        //logo: {
+        //  alt: 'RNDVOUZ Logo',
+        //  src: 'img/logo.svg',
+        //},
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'docsSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/FREEW0RK/FreeWork_mobile_application',
             label: 'GitHub',
             position: 'right',
           },
         ],
       },
-
-
-
-
-     footer: {
+      footer: {
         style: 'dark',
         links: [
           {
-            label: "Project Board",
-            href: "https://github.com/orgs/rndvouz/projects/1"
+            label: "Project Boards",
+            href: "https://github.com/orgs/FREEW0RK/projects"
           },
           {
             label: "Documentation Repo",
-            href: "https://github.com/rndvouz/rndvouz.github.io/tree/main"
+            href: "https://github.com/FREEW0RK/FREEW0RK.github.io/tree/main"
           },
           {
             label: "About Us",
             to: 'docs/about'
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} RNDVOUZ`,
+        copyright: `Copyright © ${new Date().getFullYear()} FREEWORK`,
       },
       prism: {
         theme: lightCodeTheme,

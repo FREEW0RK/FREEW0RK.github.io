@@ -21,6 +21,8 @@ const config = {
   organizationName: 'FREEW0RK', // Usually your GitHub org/user name.
   projectName: 'FREEW0RK.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages', // The branch of the docs repo to publish.
+  trailingSlash: false,
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 

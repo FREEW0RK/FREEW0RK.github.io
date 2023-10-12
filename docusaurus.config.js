@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Put your ffice Outdoors - Explore Earth - Anytime',
-  favicon: 'img/freeworklogoearthgrinsgesicht.jpg',
+  favicon: '/img/freeworklogoearthgrinsgesicht.jpg',
 
   // Set the production url of your site here
   url: 'https://freew0rk.github.io/',

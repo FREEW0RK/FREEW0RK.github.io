@@ -3,7 +3,6 @@ sidebar_position: 3
 sidebar_label: "About The Team"
 ---
 
-
 # The Team
 
 ### Christoph Haring

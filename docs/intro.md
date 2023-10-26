@@ -8,18 +8,22 @@ sidebar_label: "Introduction"
 
 ## Motivation
 
-### Fast fashion and its environmental impact
-Fast fashion, that enticing realm of ever-changing trends and affordable clothing, holds a dark secret beneath its shiny surface. It's a secret that's impacting our planet profoundly. The rapid production and quick turnover of inexpensive garments might seem harmless, but their environmental cost is staggering. The relentless pursuit of low-cost, disposable fashion has led to a relentless cycle of resource depletion, pollution, and waste. From the overconsumption of water and energy in textile production to the disposal of vast quantities of clothing in landfills, fast fashion has a profound and negative impact on the environment. It contributes significantly to greenhouse gas emissions, chemical pollution, and the depletion of natural resources. Recognizing the urgent need for change, many are now advocating for a shift towards sustainable and ethical fashion practices to mitigate these environmental consequences
+### Office work and its negative impact on human beings
+In today's world, people have to do more and more digital work. Until before Covid, the office was in most cases the only place where people did this work. Offices are often cramped, stuffy, dark or overcrowded with artificial light. Open, light-flooded workplaces are usually only available on the top executive floors. Who doesn't sometimes dream of a beautiful, wide view or a fresh sea breeze while preparing the next PowerPoint presentation or entering Excel values ​​into tables? The Covid crisis has inevitably shown that more flexible workplace models such as home
+-Office work. This has now become an integral part of most everyday working lives. With increasing digitalization, office work will probably become more instead of less in the future. Nevertheless, these jobs are not healthy for people, both mentally and physically. Locked up in narrow spaces under artificial light completely contradicts human nature and evolution. FREEWORK would like to offer people another alternative in addition to the office, home office and coworking and enable digital working from anywhere on earth. The aim is to make everything as easy and pleasant as possible for the user, so that they can look forward to a nice day of work in nature without having to plan anything themselves. We'll take care of that :)
 
 ## Goals
-Our goal by creating RNDVOUZ is to combact the impact fast fashion have on the environment by creating an easy to use, fun, and
-interactive app that allows users to seamlessly exchange/trade their clothing with the swipe of a screen. 
 
-Our motto for this app is:
->*"Helping sustainable clothing, one swipe at a time"*.
+The goal with FREEWORK is to offer a simple and convenient solution,
+to enable digital work from every possible place on earth and to offer another alternative for digital work in addition to the office, home office and co-working place. The aim is to create a connection to nature and a feeling of freedom so that future people see nature as a valuable asset that needs to be protected and not just strive for power and financial goals.
+
+
+>*"FREEWORK 
+ Explore Earth
+ Anytime"*.
 
 ## Development status
 [<button className="button button--secondary">**Check out our app on GitHub!**</button>][Link]
 
-[Link]: https://github.com/rndvouz/rndvouz-mobile-app
+[Link]: https://github.com/FREEW0RK/FreeWork_mobile_application
 

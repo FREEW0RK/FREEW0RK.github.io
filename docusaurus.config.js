@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'FREEWORK',
-  tagline: 'Put your Office Outdoors - Explore Earth - Anytime',
+  tagline: 'Put your Office Outdoors and Explore Earth - Anytime',
   favicon: '/img/freeworklogoearthgrinsgesicht.jpg',
 
   // Set the production url of your site here
@@ -65,7 +65,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: '/img/freeworklogoearthgrinsgesicht.jpg',
       navbar: {
         title: 'FREEWORK',
         logo: {
@@ -77,11 +77,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Vision',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/FREEW0RK/FreeWork_mobile_application',
             label: 'GitHub',
             position: 'right',
           },
@@ -96,18 +96,18 @@ const config = {
         links: [
           {
             label: "Project Board",
-            href: "https://github.com/orgs/rndvouz/projects/1"
+            href: "https://github.com/orgs/FREEW0RK/projects"
           },
           {
             label: "Documentation Repo",
-            href: "https://github.com/rndvouz/rndvouz.github.io/tree/main"
+            href: "https://github.com/FREEW0RK/FREEW0RK.github.io/tree/main"
           },
           {
             label: "About Us",
             to: 'docs/about'
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} RNDVOUZ`,
+        copyright: `Copyright © ${new Date().getFullYear()} FREEWORK`,
       },
       prism: {
         theme: lightCodeTheme,

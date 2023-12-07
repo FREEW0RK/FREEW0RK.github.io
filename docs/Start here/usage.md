@@ -4,6 +4,8 @@
 ### StartScreen
 
 <p style={{margin: "2vh 0px 2vh 0px", clear: "both"}}>
+<img className="mockup" width="180vw" src="/img/mockup/start000.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/start001.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/start1.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/start2.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/start3.png"/> 
@@ -51,7 +53,7 @@ U can also choose your personal theme e.g. dark mode using the Riverpod state ma
 <div style={{clear: "both"}}> </div>
 
 ### Onboarding
-
+<img className="mockup" width="180vw" src="/img/mockup/poll00.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/poll1.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/poll2.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/poll3.png"/> 
@@ -105,6 +107,7 @@ Home Screen works as command center and allows navigation to all elements (Centr
 
 ### FREEWORK MAP
 <img className="mockup" width="180vw" src="/img/mockup/MAP000.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/MAP001.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/mapplace1.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/mapplace2.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/mapplace3.png"/> 
@@ -128,7 +131,8 @@ Home Screen works as command center and allows navigation to all elements (Centr
 
 
 
-<div className="mockup-p"
+
+<div className="mockup-p">
 Based on your preferences and your shared information, your personal FREEWORK MAP with different proposals and options will be delivered for you
 </div>
 

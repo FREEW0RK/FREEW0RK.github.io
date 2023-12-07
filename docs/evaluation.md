@@ -33,11 +33,10 @@ Offer the beta to friends that are grad students at UH and random students on ca
 
 [Link Test Script]: https://docs.google.com/document/d/1jC69x0kgiTAViqKUpDQtw88PmxVg1YBVpyCvhOGkEUA/edit?usp=sharing
 
-
 ## Raw Test Data
-[Link Test Script]
+[Raw Test Data Link]
 
-[Link Test Script]: https://docs.google.com/document/d/1jC69x0kgiTAViqKUpDQtw88PmxVg1YBVpyCvhOGkEUA/edit?usp=sharing
+[Raw Test Data Link]: https://drive.google.com/drive/folders/1Tz-EdSS91MQgL2EDLkGhrxlh_N1Wpm8_?usp=sharing
 
 
 
@@ -67,10 +66,6 @@ Offer the beta to friends that are grad students at UH and random students on ca
 - add location coordinates via click in map
 - possibility to add photos by camera directly and more pictures each spot
 - preferences dictates colour shade (red to green e.g)
-
-
-
-
 
 
 

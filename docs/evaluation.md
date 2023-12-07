@@ -13,7 +13,7 @@ Find nice FREEWORK spots to work comfortly outdoors & mobile easily by using the
 The first scenario is to create a new user and navigate to the homepage, which shows different generic places. From here you can use the drawer to navigate thtough teh menu and come to places, where you can add and edit FW places. You also can navigate to the main map or click in the bottom navigation bar "My FW Map" that lets you navigate to a map with different FREEWORK places with different markers depending on a defined area around your current location. The user should be able to zoom in and out of the map, click marker and gain inforamtion about the location and hopefully get automated navigation opportunity to the nice FreeWork spot. Use different spots around campus for different scenarios.  
  
 ## User Types
-First user group would be UH studens and faculty as the beta concentrates on nice FreeWork spots on UH campus. But as you can add nice spots to the database it should work for generic places, too. This results in anyonw who could possible work remotely as User Type. 
+First user group would be UH students and faculty as the beta concentrates on nice FreeWork spots on UH campus and Oahu. But as you can add nice spots to the database it should work for generic places, too. This results in anyone who could possible work remotely as User Type. 
 
 ## Recruitment
 Offer the beta to friends that are grad students at UH and random students on campus and go around with them (and the laptop if OS not matching) and let the app guide us to different nice FREEWORK pots.
@@ -37,6 +37,11 @@ Offer the beta to friends that are grad students at UH and random students on ca
 [Raw Test Data Link]
 
 [Raw Test Data Link]: https://drive.google.com/drive/folders/1Tz-EdSS91MQgL2EDLkGhrxlh_N1Wpm8_?usp=sharing
+
+## Test Run
+[Test Run Link]
+
+[Test Run Link]: https://drive.google.com/file/d/1eFK0MTsjVnVoB9ltBmPwO1XUUlwWutSq/view?usp=sharing
 
 
 
@@ -66,6 +71,8 @@ Offer the beta to friends that are grad students at UH and random students on ca
 - add location coordinates via click in map
 - possibility to add photos by camera directly and more pictures each spot
 - preferences dictates colour shade (red to green e.g)
+- enable only preferenced spots (poll, preferences, AI backend, calendar, weather data...)
+- MAKE EASY FOR USER!!!!!!
 
 
 

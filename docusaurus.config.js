@@ -96,7 +96,7 @@ const config = {
         links: [
           {
             label: "Project Board",
-            href: "https://github.com/orgs/FREEW0RK/projects"
+            href: "https://github.com/orgs/FREEW0RK/projects/2"
           },
           {
             label: "Documentation Repo",

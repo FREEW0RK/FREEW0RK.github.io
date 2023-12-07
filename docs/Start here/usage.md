@@ -72,7 +72,11 @@ When you first register on our app, you will be asked to share location and your
 
 
 ### Home Screen
+<img className="mockup" width="180vw" src="/img/mockup/placesview3.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/placesview1.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/placesview2.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/placesview4.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/placesview5.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/home2_sidebar.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/home3.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/home1.png"/> 
@@ -117,12 +121,14 @@ Home Screen works as command center and allows navigation to all elements (Centr
 <img className="mockup" width="180vw" src="/img/mockup/navi1.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/navi2.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/navi3.png"/> 
- <img className="mockup" width="180vw" src="/img/mockup/navi4.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/navi4.png"/> 
 <img className="mockup" width="180vw" src="/img/mockup/navi5.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/navi6.png"/> 
+<img className="mockup" width="180vw" src="/img/mockup/navi7.png"/> 
 
 
 
-<div className="mockup-p">
+<div className="mockup-p"
 Based on your preferences and your shared information, your personal FREEWORK MAP with different proposals and options will be delivered for you
 </div>
 
